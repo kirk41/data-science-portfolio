@@ -32,7 +32,7 @@ SAS and Salesforce Developer (Apex) training (currently working on certification
 
 ### Statistics Experience
 - Taught AP Statistics for 13 years
-- Related graduate courses: Data Mining, Machine Learning, Visual Analytics, Statistical Data Mining, Regression Analysis
+- Related graduate courses: Data Mining (Python), Machine Learning (Python), Visual Analytics (Tableau), Statistical Data Mining (Python and R), Regression Analysis (R)
 
 ### Fun with Data Science
 [Synchronous e-Learning Effects on Math Performance of High School Students (random forest classifier, decision tree regression, k-means clustering, learning curve, validation curve)](/assets/papers/SynchronousElearningEffects.pdf) 
