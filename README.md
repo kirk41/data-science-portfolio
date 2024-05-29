@@ -1,6 +1,8 @@
 # Data Scientist
 
 ### Summary
+I am a lifelong learner and self-starter with a passion for data and programming. I have a proven 
+track record of learning languages/software packages quickly.
 
 ### Education
 - Master of Science in Data Science,
@@ -11,28 +13,28 @@ WV State University, Institute, WV
 WV Institute of Technology (now WV University Institute of Technology)
 
 ### Work Experience
-**Teacher @ Winfield High School for 16 years (8/2008-2/2024)**
-- Computer Science, AP Statistics, Calculus, Trig, Robotics (I developed the course.)
-
-**Salesforce Administrator @ Central App (1/2024-present)**
+**Certified Salesforce Administrator Consultant @ Central App (1/2024-present)**
 - A Salesforce Administrator is responsible for managing and optimizing Salesforce systems,
 including user and license management, support, training, and system upgrades. They ensure
 effective utilization of Salesforce tools and collaborate with stakeholders to meet organizational requirements.
 - Currently studying for Platform Developer I exam.
+**Teacher @ Winfield High School for 16 years (8/2008-2/2024)**
+- Computer Science, AP Statistics, Calculus, Trig, Robotics (I developed the course.)
 
 ### Programming Experience
 - Computer Science major for 1.5 years, studied Pascal, PL1, Assembly
 - Taught Computer Science for 15 years: Python, Java, JavaScript, Visual Basic
+- Taught an Excel class to professionals
 - Head Coach [Putnam Area Robotics Team 3492](https://www.parts3492.org), part of [FIRST FRC](https://www.firstinspires.org), 13 years, programming mentor 5 years (LabView and Java)
 - Related graduate courses: Intro to GIS, Advanced Programming (Python), Database Engineering (SQL),
 Advanced Web Technology (HTML, CSS, JavaScript), Applied Algorithms (Python), Advanced Database Systems (SQL and NoSQL),
-SAS and Salesforce Developer training (currently working on certifications)
+SAS and Salesforce Developer (Apex) training (currently working on certifications)
 
 ### Statistics Experience
 - Taught AP Statistics for 13 years
 - Related graduate courses: Data Mining, Machine Learning, Visual Analytics, Statistical Data Mining, Regression Analysis
 
-### Projects
+### Fun with Data Science
 [Synchronous e-Learning Effects on Math Performance of High School Students (random forest classifier, decision tree regression, k-means clustering, learning curve, validation curve)](/assets/papers/SynchronousElearningEffects.pdf) 
 
 [Visual Analysis of Effects of Key Demographics on Covid-19 Vaccine Hesitancy in the US (visualizations in Tableau)](/assets/papers/CS670FinalProjectPaper_TinaKirk.pdf)
