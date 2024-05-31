@@ -18,11 +18,12 @@ WV Institute of Technology (now WV University Institute of Technology)
 including user and license management, support, training, and system upgrades. They ensure
 effective utilization of Salesforce tools and collaborate with stakeholders to meet organizational requirements.
 - Currently studying for Platform Developer I exam.
+  
 **Teacher @ Winfield High School for 16 years (8/2008-2/2024)**
-- Computer Science, AP Statistics, Calculus, Trig, Robotics (I developed the course.)
+- Computer Science, Robotics (I developed the course.), all math classes including Calculus, Trig, AP Statistics
 
 ### Programming Experience
-- Computer Science major for 1.5 years, studied Pascal, PL1, Assembly
+- Initially Computer Science major for undergrad, studied Pascal, PL1, Assembly
 - Taught Computer Science for 15 years: Python, Java, JavaScript, Visual Basic
 - Taught an Excel class to professionals
 - Head Coach [Putnam Area Robotics Team 3492](https://www.parts3492.org), part of [FIRST FRC](https://www.firstinspires.org), 13 years, programming mentor 5 years (LabView and Java)
