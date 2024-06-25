@@ -42,7 +42,7 @@ SAS and Salesforce Developer (Apex) training (currently working on certification
 
 [Predicting Used Car Prices (correlation matrix, linear regression, transforming to achieve linearity, best subset selection, ANOVA, Kolmogorov-Smirnov (K-S) Test, Levene's Test, Boxcox)](/assets/papers/FinalReportRevised_TinaKirk.pdf)
 
-[Predicting SAT Scores of High School Students (linear regression, residual plots, normal probability plots (QQ), polynomial regression, best subset selection, forward and backward stepwise selection, validation set approach, regressor selction criteria: Cp, BIC, AIC, adjusted r-squared)](/assets/papers/SynchronousElearningEffects.pdf)
+[Predicting SAT Scores of High School Students (linear regression, residual plots, normal probability plots (QQ), polynomial regression, best subset selection, forward and backward stepwise selection, validation set approach, regressor selction criteria: Cp, BIC, AIC, adjusted r-squared)](/assets/papers/STA535Project.pptx)
 
 [Predicting Student Exam Performance (data preparation, jitter plot, beeswarm plot, ggplot methods of geom_sina() and geom_violin(), logistics regression to predict categorical response of pass/fail)](/assets/papers/Student_Exam_Performance_Prediction.pdf)
 
